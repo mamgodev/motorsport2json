@@ -1,0 +1,172 @@
+[
+    {
+        "title": "\n                                                Firestone Grand Prix of St. Petersburg\n                                            ",
+        "place": "\n                                                St. Petersburg, FL\n                                            ",
+        "circuit": "\n                                                Streets of St. Petersburg - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/StPetersburg.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192253Z",
+        "time": "3:30 PM ET",
+        "month": "\n                                                Mar",
+        "day": "15",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/StPetersburg2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20190903T160557Z"
+    },
+    {
+        "title": "\n                                                Honda Grand Prix of Alabama\n                                            ",
+        "place": "\n                                                Birmingham, AL\n                                            ",
+        "circuit": "\n                                                Barber Motorsports Park - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/BarberMotorsportsPark.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192136Z",
+        "time": "4:15 PM ET",
+        "month": "\n                                                Apr",
+        "day": "05",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/Barber2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191101T165201Z"
+    },
+    {
+        "title": "\n                                                Acura Grand Prix of Long Beach\n                                            ",
+        "place": "\n                                                Long Beach, CA\n                                            ",
+        "circuit": "\n                                                Streets of Long Beach - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/LongBeach.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192221Z",
+        "time": "4:45 PM ET",
+        "month": "\n                                                Apr",
+        "day": "19",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/LongBeach2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191101T165752Z"
+    },
+    {
+        "title": "\n                                                AutoNation INDYCAR Challenge\n                                            ",
+        "place": "\n                                                Austin, TX\n                                            ",
+        "circuit": "\n                                                Circuit Of The Americas - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/CircuitOfTheAmericas.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T205321Z",
+        "time": "4:10 PM ET",
+        "month": "\n                                                Apr",
+        "day": "26",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/COTA2020.png?h=100&la=en&mw=80&w=67&vs=1&d=20191112T224847Z"
+    },
+    {
+        "title": "\n                                                GMR Grand Prix\n                                            ",
+        "place": "\n                                                Indianapolis, IN\n                                            ",
+        "circuit": "\n                                                Indianapolis Motor Speedway - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/Indianapolis-RC.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192209Z",
+        "time": "3:50 PM ET",
+        "month": "\n                                                May",
+        "day": "09",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/IndianapolisRC.png?h=100&la=en&mw=80&w=80&vs=1&d=20191209T224528Z"
+    },
+    {
+        "title": "\n                                                104th Running of the Indianapolis 500\n                                            ",
+        "place": "\n                                                Indianapolis, IN\n                                            ",
+        "circuit": "\n                                                Indianapolis Motor Speedway - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/IndianapolisMotorSpeedway.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192157Z",
+        "time": "12:30 PM ET",
+        "month": "\n                                                May",
+        "day": "24",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/Indianapolis500.png?h=100&la=en&mw=80&w=77&vs=1&d=20190828T224234Z"
+    },
+    {
+        "title": "\n                                                Chevrolet Dual in Detroit Race 1\n                                            ",
+        "place": "\n                                                Detroit, MI\n                                            ",
+        "circuit": "\n                                                The Raceway at Belle Isle Park - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/DetroitBelleIsle.png?h=100&la=en&mh=100&w=125&vs=1&d=20160524T161041Z",
+        "time": "3:50 PM ET",
+        "month": "\n                                                May",
+        "day": "30",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackLogos/DetroitBelleIsle.jpg?h=100&la=en&mw=80&w=67&vs=1&d=20180319T132457Z"
+    },
+    {
+        "title": "\n                                                Chevrolet Dual in Detroit Race 2\n                                            ",
+        "place": "\n                                                Detroit, MI\n                                            ",
+        "circuit": "\n                                                The Raceway at Belle Isle Park - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/DetroitBelleIsle.png?h=100&la=en&mh=100&w=125&vs=1&d=20160524T161041Z",
+        "time": "3:50 PM ET",
+        "month": "\n                                                May",
+        "day": "31",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackLogos/DetroitBelleIsle.jpg?h=100&la=en&mw=80&w=67&vs=1&d=20180319T132457Z"
+    },
+    {
+        "title": "\n                                                Texas Indy 600\n                                            ",
+        "place": "\n                                                Fort Worth, TX\n                                            ",
+        "circuit": "\n                                                Texas Motor Speedway - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/TexasMotorSpeedway.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192122Z",
+        "time": "8:45 PM ET",
+        "month": "\n                                                Jun",
+        "day": "06",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/Texas2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191112T192422Z"
+    },
+    {
+        "title": "\n                                                REV Group Grand Prix at Road America\n                                            ",
+        "place": "\n                                                Elkhart Lake, WI\n                                            ",
+        "circuit": "\n                                                Road America - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/RoadAmerica.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T205328Z",
+        "time": "12:50 PM ET",
+        "month": "\n                                                Jun",
+        "day": "21",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/RoadAmerica2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191121T222039Z"
+    },
+    {
+        "title": "\n                                                Indy Richmond 300\n                                            ",
+        "place": "\n                                                Richmond, VA\n                                            ",
+        "circuit": "\n                                                Richmond Raceway - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/RichmondRaceway.png?h=100&la=en&mh=100&w=125&vs=1&d=20191113T184652Z",
+        "time": "8:15 PM ET",
+        "month": "\n                                                Jun",
+        "day": "27",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackLogos/RichmondRaceway.png?h=100&la=en&mw=80&w=80&vs=1&d=20190809T164552Z"
+    },
+    {
+        "title": "\n                                                Honda Indy Toronto\n                                            ",
+        "place": "\n                                                Toronto, Ontario, Canada\n                                            ",
+        "circuit": "\n                                                Streets of Toronto - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/Toronto.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192301Z",
+        "time": "3:40 PM ET",
+        "month": "\n                                                Jul",
+        "day": "12",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/Toronto2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191104T183955Z"
+    },
+    {
+        "title": "\n                                                Iowa 300\n                                            ",
+        "place": "\n                                                Newton, IA\n                                            ",
+        "circuit": "\n                                                Iowa Speedway - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/IowaSpeedway.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T192215Z",
+        "time": "9:00 PM ET",
+        "month": "\n                                                Jul",
+        "day": "18",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackLogos/IowaSpeedway-78-Block.png?h=100&la=en&mw=80&w=80&vs=1&d=20180903T172433Z"
+    },
+    {
+        "title": "\n                                                Honda Indy 200 at Mid-Ohio\n                                            ",
+        "place": "\n                                                Lexington, OH\n                                            ",
+        "circuit": "\n                                                Mid-Ohio Sports Car Course - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/MidOhioSportsCarCourse.png?h=100&la=en&mh=100&w=125&vs=1&d=20160728T183656Z",
+        "time": "12:45 PM ET",
+        "month": "\n                                                Aug",
+        "day": "16",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/MidOhio2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191104T183931Z"
+    },
+    {
+        "title": "\n                                                Bommarito Automotive Group 500\n                                            ",
+        "place": "\n                                                Madison, IL\n                                            ",
+        "circuit": "\n                                                World Wide Technology Raceway at Gateway - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/GatewayMotorsportsPark.png?h=100&la=en&mh=100&w=125&vs=1&d=20160505T164518Z",
+        "time": "8:45 PM ET",
+        "month": "\n                                                Aug",
+        "day": "22",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/Gateway2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191111T213944Z"
+    },
+    {
+        "title": "\n                                                Grand Prix of Portland\n                                            ",
+        "place": "\n                                                Portland, OR\n                                            ",
+        "circuit": "\n                                                Portland International Raceway - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/PortlandInternationalRaceway.png?h=100&la=en&mh=100&w=125&vs=1&d=20170925T151929Z",
+        "time": "3:40 PM ET",
+        "month": "\n                                                Sep",
+        "day": "06",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/Portland2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20191104T183942Z"
+    },
+    {
+        "title": "\n                                                Firestone Grand Prix of Monterey\n                                            ",
+        "place": "\n                                                Monterey, CA\n                                            ",
+        "circuit": "\n                                                WeatherTech Raceway Laguna Seca - \n                                            ",
+        "circuitSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/TrackOutlines/Black/LagunaSeca.png?h=100&la=en&mh=100&w=125&vs=1&d=20151012T205340Z",
+        "time": "3:25 PM ET",
+        "month": "\n                                                Sep",
+        "day": "20",
+        "logoSrcImg": "https://digbza2f4g9qo.cloudfront.net/-/media/IndyCar/Schedules/EventLogos/2020/LagunaSeca2020.png?h=100&la=en&mw=80&w=80&vs=1&d=20190903T160545Z"
+    }
+]
