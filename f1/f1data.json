@@ -1,1 +1,128 @@
-[{"nombre": "Australian Grand Prix", "localizacion": "Melbourne", "hora": "05:10", "dia": "17 March"}, {"nombre": "Bahrain Grand Prix", "localizacion": "Sakhir", "hora": "16:10", "dia": "31 March"}, {"nombre": "Chinese Grand Prix", "localizacion": "Shanghai", "hora": "07:10", "dia": "14 April"}, {"nombre": "Azerbaijan Grand Prix", "localizacion": "Baku", "hora": "13:10", "dia": "28 April"}, {"nombre": "Spanish Grand Prix", "localizacion": "Catalunya", "hora": "14:10", "dia": "12 May"}, {"nombre": "Monaco Grand Prix", "localizacion": "Monte Carlo", "hora": "14:10", "dia": "26 May"}, {"nombre": "Canadian Grand Prix", "localizacion": "Montreal", "hora": "19:10", "dia": "9 June"}, {"nombre": "French Grand Prix", "localizacion": "Paul Ricard", "hora": "14:10", "dia": "23 June"}, {"nombre": "Austrian Grand Prix", "localizacion": "Spielberg", "hora": "14:10", "dia": "30 June"}, {"nombre": "British Grand Prix", "localizacion": "Silverstone", "hora": "14:10", "dia": "14 July"}, {"nombre": "German Grand Prix", "localizacion": "Hockenheim", "hora": "14:10", "dia": "28 July"}, {"nombre": "Hungarian Grand Prix", "localizacion": "Budapest", "hora": "14:10", "dia": "4 August"}, {"nombre": "Belgian Grand Prix", "localizacion": "Spa-Francorchamps", "hora": "14:10", "dia": "1 September"}, {"nombre": "Italian Grand Prix", "localizacion": "Monza", "hora": "14:10", "dia": "8 September"}, {"nombre": "Singapore Grand Prix", "localizacion": "Singapore", "hora": "13:10", "dia": "22 September"}, {"nombre": "Russian Grand Prix", "localizacion": "Sochi", "hora": "12:10", "dia": "29 September"}, {"nombre": "Japanese Grand Prix", "localizacion": "Suzuka", "hora": "06:10", "dia": "13 October"}, {"nombre": "Mexican Grand Prix", "localizacion": "Mexico City", "hora": "19:10", "dia": "27 October"}, {"nombre": "United States Grand Prix", "localizacion": "Austin", "hora": "19:10", "dia": "3 November"}, {"nombre": "Brazilian Grand Prix", "localizacion": "Sao Paulo", "hora": "18:10", "dia": "17 November"}, {"nombre": "Abu Dhabi Grand Prix", "localizacion": "Yas Marina", "hora": "13:10", "dia": "1 December"}]
+[
+    {
+        "nombre": "Australian Grand Prix",
+        "localizacion": "Melbourne",
+        "hora": "05:10",
+        "dia": "17 March"
+    },
+    {
+        "nombre": "Bahrain Grand Prix",
+        "localizacion": "Sakhir",
+        "hora": "16:10",
+        "dia": "31 March"
+    },
+    {
+        "nombre": "Chinese Grand Prix",
+        "localizacion": "Shanghai",
+        "hora": "07:10",
+        "dia": "14 April"
+    },
+    {
+        "nombre": "Azerbaijan Grand Prix",
+        "localizacion": "Baku",
+        "hora": "13:10",
+        "dia": "28 April"
+    },
+    {
+        "nombre": "Spanish Grand Prix",
+        "localizacion": "Catalunya",
+        "hora": "14:10",
+        "dia": "12 May"
+    },
+    {
+        "nombre": "Monaco Grand Prix",
+        "localizacion": "Monte Carlo",
+        "hora": "14:10",
+        "dia": "26 May"
+    },
+    {
+        "nombre": "Canadian Grand Prix",
+        "localizacion": "Montreal",
+        "hora": "19:10",
+        "dia": "9 June"
+    },
+    {
+        "nombre": "French Grand Prix",
+        "localizacion": "Paul Ricard",
+        "hora": "14:10",
+        "dia": "23 June"
+    },
+    {
+        "nombre": "Austrian Grand Prix",
+        "localizacion": "Spielberg",
+        "hora": "14:10",
+        "dia": "30 June"
+    },
+    {
+        "nombre": "British Grand Prix",
+        "localizacion": "Silverstone",
+        "hora": "14:10",
+        "dia": "14 July"
+    },
+    {
+        "nombre": "German Grand Prix",
+        "localizacion": "Hockenheim",
+        "hora": "14:10",
+        "dia": "28 July"
+    },
+    {
+        "nombre": "Hungarian Grand Prix",
+        "localizacion": "Budapest",
+        "hora": "14:10",
+        "dia": "4 August"
+    },
+    {
+        "nombre": "Belgian Grand Prix",
+        "localizacion": "Spa-Francorchamps",
+        "hora": "14:10",
+        "dia": "1 September"
+    },
+    {
+        "nombre": "Italian Grand Prix",
+        "localizacion": "Monza",
+        "hora": "14:10",
+        "dia": "8 September"
+    },
+    {
+        "nombre": "Singapore Grand Prix",
+        "localizacion": "Singapore",
+        "hora": "13:10",
+        "dia": "22 September"
+    },
+    {
+        "nombre": "Russian Grand Prix",
+        "localizacion": "Sochi",
+        "hora": "12:10",
+        "dia": "29 September"
+    },
+    {
+        "nombre": "Japanese Grand Prix",
+        "localizacion": "Suzuka",
+        "hora": "06:10",
+        "dia": "13 October"
+    },
+    {
+        "nombre": "Mexican Grand Prix",
+        "localizacion": "Mexico City",
+        "hora": "19:10",
+        "dia": "27 October"
+    },
+    {
+        "nombre": "United States Grand Prix",
+        "localizacion": "Austin",
+        "hora": "19:10",
+        "dia": "3 November"
+    },
+    {
+        "nombre": "Brazilian Grand Prix",
+        "localizacion": "Sao Paulo",
+        "hora": "18:10",
+        "dia": "17 November"
+    },
+    {
+        "nombre": "Abu Dhabi Grand Prix",
+        "localizacion": "Yas Marina",
+        "hora": "13:10",
+        "dia": "1 December"
+    }
+]

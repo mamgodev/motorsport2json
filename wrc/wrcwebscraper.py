@@ -1,51 +1,50 @@
 #IMPORTS
 import requests
 import json
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
 from datetime import datetime
 from bs4 import BeautifulSoup
 
 #URL FROM THE WEBSITE
-URL = "https://www.wrc.com/es/"
+URL = "https://www.wrc.com/en/championship/calendar/wrc/"
+
+#WEBDRIVER (NECESSARY BECAUSE WRC WONT GIVE ANYTHING)
+driver = webdriver.Firefox(executable_path="./geckodriver")
 
 #GET ALL THE WEBPAGE
-data = requests.get(URL)
+driver.get(URL)
 
 #USES HTML5LIB
-soup = BeautifulSoup(data.content, 'html5lib')
+#DRIVER.PAGE_SOURCE GIVES THE HTML
+soup = BeautifulSoup(driver.page_source, 'html5lib')
 
-#FIND THE DIV WITH THE CLASS CALENDAR-EVENT-CONTENT WHICH HAS ALL THE INFORMATION
-wrcDivCalendar = soup.find_all('div', {"class": "calendar-event-content"})
+#CLOSE BROWSER
+driver.quit()
+
+#GET THE TABLE
+wrcTable = soup.find('tbody')
+
+#GET ALL THE TR FROM THE TABLE
+wrcTableTrs = wrcTable.find_all('tr')
+
 
 #ARRAY FOR THE EVENTS
 wrcEvents = []
 
-for divEvent in wrcDivCalendar:
+for td in wrcTableTrs:
 
-    #GET IMG FROM THE EVENT
-    #HELP -- FIND THE CLASS WITH RALLY-LOGO AND GET THE CONTENT WITHIN SRC
-    imgEvent = divEvent.find(class_='rally-logo')['src']
-
-    #GET NAME EVENT
-    nameEvent = divEvent.find(class_='rally-name').text
-
-    #GET DATE EVENT
-    dateEvent = divEvent.find('time').text
-
-    #GET TIME (IT IS A TIMESTAMP SO NEEDS TO BE CONVERTED)
-    timestampEvent = divEvent.find(class_='calendar-countdown-identifier')['data-timestamp']
-
-    #CONVERTS TIMESTAMP TO DATA-TIME AND TRANSFORMS IT INTO STRING
-    dataTimeEvent = datetime.fromtimestamp(int(timestampEvent)).strftime("%Y-%m-%d %H:%M:%S")
+    nameEvent = td.find('a').text.replace('\n', '').strip()
+    imgEvent = td.find(class_="flag")['src']
+    tdTr = td.find_all('td')
+    dateEvent = tdTr[2].text
 
     #OBJECT WITH THE CONTENT OF THE EVENT
     dataEvent = {
         'imgSrc': imgEvent,
         'name': nameEvent,
         'date': dateEvent,
-        'timestamp': timestampEvent,
-        'dateTime': dataTimeEvent
     }
-
     wrcEvents.append(dataEvent)
 
 #TAKE THE ARRAY INTO A JSON FILE
